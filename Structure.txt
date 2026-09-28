@@ -1,0 +1,45 @@
+Inventory Stock Manager
+
+A Python application for managing products and their stock quantities.
+
+Features
+
+* Add products
+* View inventory
+* Search products
+* Update stock
+* Delete products
+* Calculate total inventory value
+* Store data in JSON
+
+Tech Stack
+
+* Python
+* JSON
+* File Handling
+
+📂 Project Inventory Stock Manager
+
+A Python application for managing products and their stock quantities.
+
+Features
+
+* Add products
+* View inventory
+* Search products
+* Update stock
+* Delete products
+* Calculate total inventory value
+* Store data in JSON
+
+Tech Stack
+
+* Python
+* JSON
+* File Handling
+
+📂 Project Structure
+inventory-stock-manager/
+├── inventory.py
+├── inventory.json
+└── README.md
